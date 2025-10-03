@@ -1,0 +1,199 @@
+Python 3.13.4 (tags/v3.13.4:8a526ec, Jun  3 2025, 17:46:04) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+================= RESTART: C:\smart_online_quiz_system\main.py =================
+
+Welcome to the Quiz System
+1. Take Quiz
+2. View Leaderboard
+3. Admin Mode
+4. Exit
+Enter your choice: 1
+
+What does CPU stand for?
+A) Control Program Utility
+B) Central Processing Unit
+C) Central Power Unit
+D) Computer Personal Unit
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+What is the biggest country by size?
+A) China
+B) USA
+C) Brazil
+D) Russia
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+When was iPhone created?
+A) 2007
+B) 2011
+C) 2009
+D) 2015
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Correct
+
+
+What is AI?
+A) Automated Input
+B) Artificial Intelligence
+C) Access Internet
+D) Advanced Information
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+What is the closest planet to Earth?
+A) Mercury
+B) Venus
+C) Jupiter
+D) Mars
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+Who is the president of USA?
+A) Barack Obama
+B) Donald Trump
+C) George Bush
+D) Joe Biden
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+The biggest mountain in the world is?
+A) Mount Elbrus
+B) Mount Fuji
+C) Mount Kilimanjaro
+D) Mount Everest
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+What is the name of this course?
+A) Introduction to Programming
+B) Computer Science
+C) Discrete Math
+D) English
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Correct
+
+
+How many fingers does a chicken have?
+A) 2
+B) 4
+C) 5
+D) 3
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+What year was COVID-19 spread?
+A) 2018
+B) 2021
+C) 2020
+D) 2019
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+Who is the founder of Facebook?
+A) Steve Jobs
+B) Elon Musk
+C) Bill Gates
+D) Mark Zuckerberg
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+How many days are in a week?
+A) 8 days
+B) 7 days
+C) 5 days
+D) 6 days
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+What is the easiest high level language?
+A) Java
+B) assembly
+C) Python
+D) C++
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Wrong answer
+
+
+how much time in a second
+A) 1 second
+B) 2 seconds
+C) 10 seconds
+D) 60 seconds
+You have 10 seconds to answer this question.
+Enter your answer (A/B/C/D), or press Enter to skip: a
+Correct
+
+Enter your name: h
+
+Summary:
+Total Correct: 3
+Total Incorrect: 11
+Total Skipped: 0
+Needs improvement
+
+Incorrect Questions&Correct Answers:
+Q: What does CPU stand for?
+Correct Answer: B
+
+Q: What is the biggest country by size?
+Correct Answer: D
+
+Q: What is AI?
+Correct Answer: B
+
+Q: What is the closest planet to Earth?
+Correct Answer: B
+
+Q: Who is the president of USA?
+Correct Answer: B
+
+Q: The biggest mountain in the world is?
+Correct Answer: D
+
+Q: How many fingers does a chicken have?
+Correct Answer: D
+
+Q: What year was COVID-19 spread?
+Correct Answer: D
+
+Q: Who is the founder of Facebook?
+Correct Answer: D
+
+Q: How many days are in a week?
+Correct Answer: B
+
+Q: What is the easiest high level language?
+Correct Answer: C
+
+Welcome to the Quiz System
+1. Take Quiz
+2. View Leaderboard
+3. Admin Mode
+4. Exit
+Enter your choice: 
